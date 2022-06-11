@@ -17,10 +17,10 @@ The Rockbuster Stealth Management Board has asked a series of business questions
 Please see my **Tableau visualization** under the following link:
 https://public.tableau.com/app/profile/christoph.sch.neseiffen/viz/3_10SQLResults/Story1
 
-Additionally I've added a **Data Dictionary** and the **results presentation** which you can find in the main
+Additionally I've added a **Data Dictionary** and the **results presentation** which you can find in the main branch
 
 ## Resources:
-**Data Set:** Please find the Data Set in the main <br>
+**Data Set:** Please find the Data Set in the main branch <br>
 **Program used:** pgAdmin4
 
 
