@@ -15,12 +15,12 @@ The Rockbuster Stealth Management Board has asked a series of business questions
 
 ## Results & Visualizations
 Please see my **Tableau visualization** under the following link:
-https://public.tableau.com/app/profile/christoph.sch.neseiffen/viz/3_10SQLResults/Story1
+https://public.tableau.com/app/profile/christoph.sch.neseiffen/viz/3_10SQLResults/Story1 
 
 Additionally I've added a **Data Dictionary** and the **results presentation** which you can find in the main branch
 
 ## Resources:
-**Data Set:** Please find the Data Set in the main branch <br>
+**Data Set:** [Download the Data Set here](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip) <br>
 **Program used:** pgAdmin4
 
 
